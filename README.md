@@ -1,3 +1,2 @@
 # reglang
-Regular Language Computation Library
-For documentation and how to use, see reglang.pdf.
+Regular Language Computation Library. For documentation and how to use, see reglang.pdf.
